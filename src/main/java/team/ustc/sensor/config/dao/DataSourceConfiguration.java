@@ -14,7 +14,7 @@ import com.mchange.v2.c3p0.ComboPooledDataSource;
  */
 @Configuration
 // 配置mybatis mapper的扫描路径
-@MapperScan("team.ustc.censor.dao")
+@MapperScan("team.ustc.sensor.dao")
 public class DataSourceConfiguration {
     @Value("${jdbc.driver}")
     private String jdbcDriver;
