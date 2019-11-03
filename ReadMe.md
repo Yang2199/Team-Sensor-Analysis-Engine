@@ -36,3 +36,8 @@
 3. Html文件：templates文件夹
 4. css/js/image文件：static文件夹
 5. SQL语句：mapper文件夹（由mybatis自动配置）
+
+---
+###分支管理
+
+主功能开发完成前，所有的push全部提交到master分支。
