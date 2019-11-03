@@ -16,8 +16,3 @@ MyBatis | 数据库连接框架 | 2.1.1
 c3p0 | 数据库连接池 | 0.9.5.3
 
 如果各位同学使用其他版本的开发工具，可以在本地的pom.xml中修改对应的版本号（不要将修改上传到远程仓库）。
-
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
